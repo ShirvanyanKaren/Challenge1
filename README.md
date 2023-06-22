@@ -2,5 +2,5 @@
 ## Desription 
 The intent of this project was to refactor code to make it more accesible and increase search engine optimization
 ```md
-![alt text]('assets/Digital-Marketing-SEO2.png)
+![alt text](https://github.com/ShirvanyanKaren/Challenge1/blob/main/'assets/Digital-Marketing-SEO1.png)
 ```
