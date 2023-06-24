@@ -14,8 +14,8 @@
 ## Desription 
 
 The intent of this project was to refactor code to make it more accesible and increase search engine optimization
-![alt image](https://github.com/ShirvanyanKaren/Challenge1/blob/b883d3594e28ec52e51479de0387adaafe6c8e5b/'assets/Digital-Marketing-SEO2.png)
-![alt image](https://github.com/ShirvanyanKaren/Challenge1/blob/main/'assets/Digital-Marketing-SEO1.png)
+![alt image](https://github.com/ShirvanyanKaren/Challenge1/blob/b883d3594e28ec52e51479de0387adaafe6c8e5b/'Assets/Digital-Marketing-SEO2.png)
+![alt image](https://github.com/ShirvanyanKaren/Challenge1/blob/main/'Assets/Digital-Marketing-SEO1.png)
 Given the following Horiseon HTML and CSS templates, to optimize the search engine results for the website, we had to meet the following acceptance criteria:
 
 GIVEN a webpage meets accessibility standards
@@ -46,15 +46,15 @@ To meet the acceptance criteria, several components of the HTML and CSS files ha
 
 The source HTML code lacked semantic elements and used <div>'s instead. To mitigate this, I included HTML semantic elements such as header, nav, section, etc.
 
-!!alt image](assets/images/images/Semantic-Elements.png)
+!![alt image](Assets/images/images/Semantic-Elements.png)
 
 The corresponding css code also required updating as it included titles like .header for classes/ IDs that could otherwise be attributed to HTML elements.
 
 Originals css:
-![alt image](assets/images/images/Source-css.png)
+![alt image](Assets/images/images/Source-css.png)
 
 Which was changed to this:
-![alt image](assets/images/images/Updated-css.png)
+![alt image](Assets/images/images/Updated-css.png)
 
 Along with these changes, modifications were also made to heading elements, falling in sequential order with h1 being the most important, as well as the title of the website to "Business Optimization through Digital Marketing" seen in the updated HTML picture. 
 
@@ -64,16 +64,16 @@ The usage of the project was complimented with github deployment and my online g
 The repository was created on my github account through adding repository on the top right then including a name and READ.me file. 
 
 Creating repository:
-![alt image](assets/images/images/Creating-Repo.png)
+![alt image](Assets/images/images/Creating-Repo.png)
 
 Setting repository name and adding REAM.me file
-![alt image](assets/images/images/Repo-name.png)
+![alt image](Assets/images/images/Repo-name.png)
 
-After setting creating the repository, the next step was to clone the file using the github SSH key onto my terminal and adding files like index.html, style.css, and assets/omages.
+After setting creating the repository, the next step was to clone the file using the github SSH key onto my terminal and adding files like index.html, style.css, and Assets/omages.
 
 To deploly the site, I had to access the repository on github and go to settings on the top right then pages on the left directory.
 
-![alt image](assets/images/images/Deploying-Website.png)
+![alt image](Assets/images/images/Deploying-Website.png)
 
 Through this menu, I selected deploy from a branch for the source and main>root for the branch. 
 
