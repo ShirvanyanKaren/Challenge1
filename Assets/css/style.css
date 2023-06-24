@@ -14,7 +14,7 @@ header {
     background-color: #2a607c;
     color: #ffffff;
 }
-
+/* .Header h1 to just header h1 */
 header h1 {
     display: inline-block;
     font-size: 48px;
@@ -23,7 +23,7 @@ header h1 {
 header h1 .seo {
     color: #d9dcd6;
 }
-
+/* Removed classes and ids as things like nav,  */
 nav {
     padding-top: 15px;
     margin-right: 20px;
